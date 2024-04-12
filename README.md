@@ -1,4 +1,4 @@
-# XD
+# SQL
 
 ```` sql
 create table personas(
